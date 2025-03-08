@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently learning Python Full Stack Development.<br>📚 Python is my main Language.<br>🔀 The Last Project I created was a Library Management System.<br>🎓I am pursuing a Bachelor of Computer Application.<br>🌱 I’m currently learning Advanced Python.<br>
+🔭 I'm currently learning Python Full Stack Development.<br>📚 Python is my Main Language.<br>🔀 The Last Project I created was a Library Management System.<br>🎓I am pursuing a Bachelor of Computer Application.<br>🌱 I’m currently learning Advanced Python.<br>
 
 
 ## 🌐 Socials:
